@@ -9,7 +9,3 @@ Download the executable (Mac, Windows, Linux) to a folder and create a file rele
 - remaining lines = releases to be added
 
 
->username
->token
->folder
->578859
