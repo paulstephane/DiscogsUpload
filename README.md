@@ -8,4 +8,5 @@ Download the executable (Mac, Windows, Linux) to a folder and create a file rele
 - third line = folder name within your collection
 - remaining lines = releases to be added
 
+Due to Discogs limitations, one release is added per second.
 
