@@ -10,3 +10,5 @@ Download the executable (Mac, Windows, Linux) to a folder and create a file rele
 
 Due to Discogs limitations, one release is added per second.
 
+Link to executables: https://drive.google.com/drive/folders/1Ov4k6z2bCK5XWiuWrUXuTs5CPoqnHDt8?usp=sharing
+
