@@ -14,5 +14,5 @@ The program reads the folder content on Discogs and only adds releases that are 
 
 Link to executables: https://drive.google.com/drive/folders/1Ov4k6z2bCK5XWiuWrUXuTs5CPoqnHDt8?usp=sharing
 
-Program is writtine with Node and uses this library: https://github.com/bartve/disconnect
+Program is written with Node and uses this library: https://github.com/bartve/disconnect
 
