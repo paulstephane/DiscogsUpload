@@ -10,6 +10,8 @@ Download the executable (Mac, Windows, Linux) to a folder and create a text file
 
 Due to Discogs limitations, one release is added per second.
 
+The program reads the folder content on Discogs and only adds releases that are not already included in the folder.
+
 Link to executables: https://drive.google.com/drive/folders/1Ov4k6z2bCK5XWiuWrUXuTs5CPoqnHDt8?usp=sharing
 
 Program is writtine with Node and uses this library: https://github.com/bartve/disconnect
